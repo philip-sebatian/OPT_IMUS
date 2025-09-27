@@ -1,0 +1,3 @@
+[console_scripts]
+optimus-demo = optimus.examples.basic_usage:main
+optimus-split = optimus.examples.split_delivery_demo:main
